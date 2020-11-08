@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Computação Gráfica e Multimídia
 
-You can use the [editor on GitHub](https://github.com/eduardo-ono/Computacao-Grafica-e-Multimidia/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Prof. Eduardo Ono
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+## Descrição
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
+## Tópicos
 
-# Header 1
-## Header 2
-### Header 3
+- Conceitos e Aplicações
+- Fundamentos
+  - Algoritmos básicos
+  - Ferramentas de Programação
+- Dispositivos Gráficos
+  - Entrada e Saída
+- Modelagem Geométrica
+- Transformações Geométricas
+  - Bidimensionais (2D)
+  - Tridimensionais (3D)
+- Transformações para Visualização
+  - Projeções
+  - Recorte
+- Modelos de Cor
+- Renderização de Imagens
+- Animação de Imagens
+- CODECS de Áudio e Vídeo
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+## Vídeos Recomendados
 
-**Bold** and _Italic_ and `Code` text
+<br>
 
-[Link](url) and ![Image](src)
-```
+## Bibliografia
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>
 
-### Jekyll Themes
+## Filmes Recomendados
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardo-ono/Computacao-Grafica-e-Multimidia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
