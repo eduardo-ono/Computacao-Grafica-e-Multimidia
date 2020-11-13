@@ -6,10 +6,16 @@ Prof. Eduardo Ono
 
 <br>
 
-## Three.js (Biblioteca JavaScript)
+## Conteúdo das Aulas
 
-* [13/11/2020_GECO6AN] [Three.js](https://eduardo-ono.github.io/Computacao-Grafica-e-Multimidia/aulas/)
+<details>
+    <summary>[13/11/2020] Three.js (Biblioteca JavaScript)</summary>
 
+* [Aula 01](https://eduardo-ono.github.io/Computacao-Grafica-e-Multimidia/aulas/three-js/aula-01.html)
+* [Aula 02]
+* [Aula 03]
+
+</details>
 
 ## Bibliografia
 
