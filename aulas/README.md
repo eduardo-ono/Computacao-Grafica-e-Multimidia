@@ -1,6 +1,6 @@
 ### Computação Gráfica e Multimídia
 
-# Aulas
+# Three.js > Aulas
 
 Prof. Eduardo Ono
 
@@ -16,6 +16,12 @@ Prof. Eduardo Ono
 * [Aula 03]
 
 </details>
+
+## Material de Apoio
+
+* [https://threejs.org/examples/](https://threejs.org/examples/)
+
+<br>
 
 ## Bibliografia
 
